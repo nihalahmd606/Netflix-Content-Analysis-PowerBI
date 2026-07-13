@@ -1,4 +1,4 @@
-Netflix Content Analysis Dashboard (Power BI)
+# Netflix Content Analysis Dashboard (Power BI)
 
 Project Overview
 
